@@ -1,10 +1,10 @@
-# Introduction
+# 序言
 
 > “Go will be the server language of the future.” — Tobias Lütke, Shopify
 
 在过去几年，崛起了一门新的语言：Go 或者 GoLang。没有什么比一门新的编程语言更令开发者兴奋了，不是么?
 
-![golang](.gitbook/assets/golang.jpg)
+![golang](../introduction/golang.jpg)
 
 目前一些开源社区，纷纷采用 Go 语言开发了许多平台、框架等，如：[Docker](https://github.com/docker/docker-ce)、[Kubernetes](https://github.com/kubernetes/kubernetes)等，甚至逐步从其它语言（如：C、Java 等）转换到了 Go，相信这一点你已经体会到了。当您在看一些开源代码时，全是 Go 语言编写的，你该咋办呢？
 
@@ -15,6 +15,7 @@
 **适合人群：**
 
 * 编程爱好者
+
 * Go语言初学者
 
 **学习目标：**
@@ -22,4 +23,3 @@
 帮助 Go 语言小白快速学习 Go 语言基础知识，从不了解到了解，到会写 Go 语言程序，到入门，直到精通，作为Go语言系列全教程。
 
 **废话不多说，奥力给！**
-
