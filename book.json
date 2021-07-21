@@ -18,6 +18,7 @@
         "back-to-top-button",
         "-lunr", "-search", "search-plus",
         "github-buttons@2.1.0",
+        "tbfed-pagefooter@^0.0.1",
         "-highlight", "prism", "prism-themes",
         "lightbox"
     ],
@@ -45,7 +46,5 @@
             "modify_label": " Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
-        
-        
     }
 }
