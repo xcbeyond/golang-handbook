@@ -14,3 +14,4 @@ jobs:
       with:                                   #    or fork this repo and use YourName/gitbook-action@master
         token: ${{ secrets.PERSONAL_TOKEN }}  # -> remember add this in settings/secrets as following
         source_branch: main
+        time_zone: Asia/Shanghai   # set time zone
