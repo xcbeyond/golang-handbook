@@ -18,6 +18,7 @@
         "back-to-top-button",
         "-lunr", "-search", "search-plus",
         "github-buttons@2.1.0",
+        "favicon@^0.0.2",
         "tbfed-pagefooter@^0.0.1",
         "-highlight", "prism", "prism-themes",
         "lightbox"
@@ -45,6 +46,10 @@
             "copyright": "Copyright © <a href=http://xcbeyond.cn>xcbeyond.cn</a> 2021",
             "modify_label": " Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "favicon": {
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico"
         }
     }
 }

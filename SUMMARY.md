@@ -13,6 +13,11 @@
 
 ## 基础语法
 
+* [基础语法](basics/basic-syntax.md)
+* [变量](basics/variables.md)
+* [数据类型](basics/data-types.md)
+* [条件和循环](basics/conditions-and-loops.md)
+
 ## 包
 
 ## 函数
