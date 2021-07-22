@@ -15,5 +15,5 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN }}  # -> remember add this in settings/secrets as following
         source_branch: main
         time_zone: Asia/Shanghai            # set time zone
-        publish_remove_last_build: false    # Set false not remove last build but rewrite same file
+        source_edit_time: true     # source time
         publish_commit_message: ${{ github.event.head_commit.message }}  # use last commit message
