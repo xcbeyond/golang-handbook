@@ -13,15 +13,17 @@
         "codesnippet",
         "splitter",
         "page-toc-button",
-        "image-captions",
+        "image-captions", "lightbox",
         "editlink",
         "back-to-top-button",
+        "chapter-fold",
         "-lunr", "-search", "search-plus",
         "github-buttons@2.1.0",
         "favicon@^0.0.2",
         "tbfed-pagefooter@^0.0.1",
         "-highlight", "prism", "prism-themes",
-        "lightbox"
+        "copy-code-button",
+        "donate"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -43,13 +45,21 @@
             "size": "small"
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © <a href=http://xcbeyond.cn>xcbeyond.cn</a> 2021",
+            "copyright": "Copyright © <a href=https://xcbeyond.cn>xcbeyond.cn</a> 2021",
             "modify_label": " Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
+        },
+        "donate": {
+            "wechat": "https://xcbeyond.cn/images/qrcode/wechatpay.jpg",
+            "alipay": "https://xcbeyond.cn/images/qrcode/alipay.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
         }
     }
 }
