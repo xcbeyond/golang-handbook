@@ -20,7 +20,7 @@
 
 ## 包
 
-* [包的介绍和使用](packages/introduction-and-use-of-the-package.md)
+* [包的介绍和使用](packages/packages.md)
 * [包管理工具]()
   * [包管理工具之GOPATH](packages/gopath.md)
   * [包管理工具之Go Vendor](packages/govendor.md)
@@ -29,8 +29,14 @@
 
 ## 函数
 
+* [函数的介绍和使用](functions/functions.md)
+* [延迟函数defer](functions/defer.md)
+
 ## 接口
 
 ## 并发
 
 ## 框架
+
+* [Cobra]()
+  * [Cobra介绍](framework/cobra/cobra.md)
