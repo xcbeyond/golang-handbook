@@ -97,3 +97,19 @@ hugo server --port=1313
 # clone 是 commands，URL 是 arguments，brae 是 flag
 git clone URL --bare
 ```
+
+再比如：
+
+```sh
+xcbeyond@xcbeyonddeMacBook-Pro ~ % docker info --help 
+
+Usage:  docker info [OPTIONS]
+
+Display system-wide information
+
+Options:
+  -f, --format string   Format the output using the given Go template
+
+````
+
+你没有看错，像 Docker 这种这么复杂的命令都是用 Cobra 是实现的，其必有过人之处，下一节就让我们一起来看看如何实现一套属于自己的命令行工具吧！
