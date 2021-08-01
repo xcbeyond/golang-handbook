@@ -82,9 +82,9 @@ Cobra 是基于命令（`commands`）、参数（`arguments` ）、选项（`fla
 
 在具体了解、使用Cobra前有一些概念需要提前知晓一下：命令（`commands`）、参数（`arguments` ）、选项（`flags`）这几个概念。
 
-* **commands**：命令代表行为。
+* **commands**：命令代表行为,一般表示 action，即运行的二进制命令服务。同时可以拥有子命令（children commands）
 * **arguments**：参数代表命令行参数。
-* **flags**：选项代表对命令行为的改变，即命令行选项。
+* **flags**：选项代表对命令行为的改变，即命令行选项。二进制命令的配置参数，可对应配置文件。参数可分为全局参数和子命令参数。
 
 最好的命令行程序在实际使用时，就应该像在读一段优美的语句，能够更加直观的知道如何与用户进行交互。执行命令行程序应该遵循一般的格式： `APPNAME VERB NOUN --ADJECTIVE  `或 `APPNAME COMMAND ARG --FLAG`。
 
