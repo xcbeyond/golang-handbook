@@ -44,6 +44,7 @@
 
 * [Gin]()
   * [Gin介绍](framework/gin/gin.md)
+  * [Gin路由](framework/gin/gin-route.md)
 
 * [FAQ]()
   * [MacOS M1上VSCode Debug Go程序失败](faq/failed-to-debug-golang-code-with-vscode-on-mac-m1.md)
