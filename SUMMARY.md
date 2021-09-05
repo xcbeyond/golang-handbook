@@ -46,6 +46,9 @@
   * [Gin介绍](framework/gin/gin.md)
   * [Gin路由](framework/gin/gin-route.md)
   * [Gin中间件](framework/gin/gin-middleware.md)
+  * [Gin开发的Restful接口单元测试及自动化测试](framework/gin/gin-restful-interface-unit-test.md)
+
+## 其它
 
 * [FAQ]()
   * [MacOS M1上VSCode Debug Go程序失败](faq/failed-to-debug-golang-code-with-vscode-on-mac-m1.md)
