@@ -53,5 +53,7 @@
 
 ## 其它
 
+- 开发技巧
+  - [Golang项目中如何实现私有仓库pkg包的轻松引入](skill/how-to-easily-introduce-private-pkg-packages-in-the-golang-project.md)
 - FAQ
   - [MacOS M1 上 VSCode Debug Go 程序失败](faq/failed-to-debug-golang-code-with-vscode-on-mac-m1.md)
